@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="piano">
+        <attr name="p_width" format="reference|dimension" />
+        <attr name="p_height" format="reference|dimension" />
+        <attr name="p_margin" format="reference|dimension" />
+        <attr name="p_hidden" format="reference|dimension" />
+        <attr name="p_duration" format="integer" />
+    </declare-styleable>
+
+</resources>
